@@ -1,0 +1,4 @@
+[submodule "moodle/local/helloworld"]
+	path = moodle/local/helloworld
+	url = https://github.com/AdrianoRuseler/local_helloworld.git
+	branch = main
